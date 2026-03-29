@@ -97,9 +97,13 @@ ___
 
 ## 📸 Results
 
-![System Output](assets/output_ss.png)
+### Scenario 1: Normal/Moderate Traffic Flow
+![Lane Detection Output](assets/output_1.png)
 
-*Figure: Real-time lane detection, vehicle detection, and road occupancy analysis.*
+### Scenario 2: Road Occupancy & Vehicle Detection at Intersection
+![Vehicle Detection Output](assets/output_2.png)
+
+*Figure: Real-time lane detection, vehicle detection, and road occupancy estimation under different traffic conditions.*
 
 ---
 
