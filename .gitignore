@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore videos
+*.mp4
+*.mov
+
+# Ignore images/screenshots
+*.png
+*.jpg
+
+# Ignore reports
+*.pdf
+*.docx
+
+# Ignore model
+*.pt
