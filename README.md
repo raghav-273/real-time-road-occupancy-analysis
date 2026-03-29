@@ -95,9 +95,11 @@ ___
 
 ---
 
-## 📸 Demo
+## 📸 Results
 
-Demo video available locally or upon request.
+![System Output](assets/output_ss.png)
+
+*Figure: Real-time lane detection, vehicle detection, and road occupancy analysis.*
 
 ---
 
